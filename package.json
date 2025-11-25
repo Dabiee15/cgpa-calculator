@@ -1,7 +1,7 @@
 {
   "name": "cgpa-calculator",
-  "version": "0.0.0",
-  "homepage": "https://Dabiee15.github.io/cgpa-calculator-udevs",
+  "version": "1.0.0",
+  "homepage": "https://Dabiee15.github.io/cgpa-calculator/",
   "type": "module",
   "scripts": {
     "dev": "vite",
